@@ -7,3 +7,4 @@ I stoped at 61 step, ok.
 Hi, today I do 61 step my Cat Photo App.
 ok, step 64... go on)
 well, I`m builded my own cat photo app!!! I`m done all 68 steps.
+ok, now I will learn CSS by designing a menu page for a cafe webpage! 
