@@ -5,6 +5,4 @@ Let`s work!
 Hi!
 I am here again!
 Good day, everyone!
-Helo
-Hi, everybody! Hi!
 Heppy NY, everyone!!!
