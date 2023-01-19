@@ -9,5 +9,4 @@ Heppy NY, everyone!
 Go to work!!!
 Today (11/01/23) is very cold!
 It`s hard day
-One day more.!
-
+One day more
